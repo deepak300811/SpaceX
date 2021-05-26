@@ -1,0 +1,11 @@
+.upper-img-section {
+  background: #f2f2f2;
+}
+
+.upper-img-section img {
+  max-width: 100%;
+}
+.whole-card {
+  display: flex;
+  flex-direction: column;
+}

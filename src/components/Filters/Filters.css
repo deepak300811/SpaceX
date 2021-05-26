@@ -1,0 +1,22 @@
+.button-holder {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 1rem 2.5rem;
+}
+
+.white-background.holder {
+  position: relative;
+}
+
+.clear-link {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+  color: brown;
+  cursor: pointer;
+  font-size: 0.8rem;
+  background: #f2f533;
+}
+.clear-link:hover {
+  text-decoration: underline;
+}
