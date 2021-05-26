@@ -1,14 +1,26 @@
-#This App is made to work well on any device (Laptop, desktop, iPad, Mobile)
-#Mobile first approach is followed to implement the styling of this app
-#Styles specific to each component is broken in separate files, and styles common to all are kept in index.css file.
-#Css has been written manually
-#Even a clear filter button is also provided from which user can clear the filters applied by them, without manually have to remove those from URL.
-#The selection made on filters is visible in the URL and page refreshes, keeping the state of the page. And if user enter params manually in url whose are
+# SpaceX App
+
+## This App is made to work well on any device (Laptop, desktop, iPad, Mobile)
+
+## Mobile first approach is followed to implement the styling of this app
+
+## Styles specific to each component is broken in separate files, and styles common to all are kept in index.css file.
+
+## Css has been written manually
+
+## Even a clear filter button is also provided from which user can clear the filters applied by them, without manually have to remove those from URL.
+
+## The selection made on filters is visible in the URL and page refreshes, keeping the state of the page. And if user enter params manually in url whose are
+
 rendered in the UI instantaneously.
-#To get the information about land_success field, i was getting array from the cores property, so have taken the first array element and rendered it.
-#I tried implementing Server Ride Rendering but didn't find any working boilerPlate for that, so that task is left. But have implemented a cover Page
+
+## To get the information about land_success field, i was getting array from the cores property, so have taken the first array element and rendered it.
+
+## I tried implementing Server Ride Rendering but didn't find any working boilerPlate for that, so that task is left. But have implemented a cover Page
+
 that act as the introduction to the application.
-#Code is deployed on netlify.
+
+## Code is deployed on netlify.
 
 #Below are the steps needed to run the app in any local machine.
 
