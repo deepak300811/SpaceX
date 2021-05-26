@@ -18,7 +18,7 @@
 
 ## Code is deployed on netlify.
 
-#Below are the steps needed to run the app in any local machine.
+### Below are the steps needed to run the app in any local machine.
 
 # Getting Started with Create React App
 
